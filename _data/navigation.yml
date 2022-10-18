@@ -17,7 +17,7 @@ en: &DEFAULT_EN
       section: portfolio
     - title: "About"
       section: about
-     - title: "Contact"
+    - title: "Contact"
       section: contact
 en-US:
   <<: *DEFAULT_EN
