@@ -22,12 +22,15 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "BUILD"
+        text: "Extended Reality Environment"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "CONNECT"
+        text: "Between Reality Environment"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop
       - title: "INTEGRATE"
+        text: "To Your Environment
         desc: "Your description here, full **Markdown** support [Markdown](https://en.wikipedia.org/wiki/Markdown) " 
         icon: fab fa-markdown
 
