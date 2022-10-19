@@ -25,7 +25,7 @@ en: &DEFAULT_EN
         desc: "**EXTENDED REALITY ENVIRONMENT** Kami membantu anda untuk membuat lingkungan Extender Reality baik dalam bentuk Virtual Reality, Augmented Reality maupun Mixed Reality.."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "CONNECT"
-        desc: "**"BETWEEN REALITY ENVIRONMENTS** Kami membantu anda untuk membuat lingkungan Extender Reality baik dalam bentuk Virtual Reality, Augmented Reality maupun Mixed Reality."
+        desc: "**BETWEEN REALITY ENVIRONMENTS** Kami membantu anda untuk membuat lingkungan Extender Reality baik dalam bentuk Virtual Reality, Augmented Reality maupun Mixed Reality."
         icon: fas fa-laptop
       - title: "INTEGRATE"
         desc: "**TO YOUR ENVIRONMENT** Your description here, full **Markdown** support [Markdown](https://en.wikipedia.org/wiki/Markdown) " 
