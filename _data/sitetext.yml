@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: Welcome to Extended Reality
-    text: EXTEND REALITY, EXTEND POSSIBILITY
+    text: EXTEND REALITY,\n EXTEND POSSIBILITY
     button: Tell Me More
     buttonlink: "#services"
 
@@ -22,16 +22,13 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "BUILD"
-        text: "EXTENDED REALITY ENVIRONMENT"
-        desc: "Kami membantu anda untuk membuat lingkungan Extender Reality baik dalam bentuk Virtual Reality, Augmented Reality maupun Mixed Reality.."
+        desc: "**EXTENDED REALITY ENVIRONMENT** Kami membantu anda untuk membuat lingkungan Extender Reality baik dalam bentuk Virtual Reality, Augmented Reality maupun Mixed Reality.."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "CONNECT"
-        text: "BETWEEN REALITY ENVIRONMENTS"
-        desc: "Kami membantu anda untuk membuat lingkungan Extender Reality baik dalam bentuk Virtual Reality, Augmented Reality maupun Mixed Reality."
+        desc: "**"BETWEEN REALITY ENVIRONMENTS** Kami membantu anda untuk membuat lingkungan Extender Reality baik dalam bentuk Virtual Reality, Augmented Reality maupun Mixed Reality."
         icon: fas fa-laptop
       - title: "INTEGRATE"
-        text: "TO YOUR ENVIRONMENTS"
-        desc: "Your description here, full **Markdown** support [Markdown](https://en.wikipedia.org/wiki/Markdown) " 
+        desc: "**TO YOUR ENVIRONMENT** Your description here, full **Markdown** support [Markdown](https://en.wikipedia.org/wiki/Markdown) " 
         icon: fab fa-markdown
 
   portfolio:
@@ -45,24 +42,6 @@ en: &DEFAULT_EN
     text: "our story"
     body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
     section: about
-
-  clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
 
   contact:
     title: "Contact Us"
