@@ -17,9 +17,9 @@ remote_theme: raviriley/agency-jekyll-theme
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/agency-jekyll-theme-starter" # the subpath of your site, e.g. /blog
 
-title      : EXTEND REALITY, EXTEND POSSIBILITY
+title      : XR (eXtended Reality)
 email      : info@xrid.tech #this is also the email contact forms will go to
-description: "EXTEND REALITY, EXTEND POSSIBILITY"
+description: "xrid Technology"
 author     : xrid
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
