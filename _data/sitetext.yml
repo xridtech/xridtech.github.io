@@ -18,45 +18,35 @@ en: &DEFAULT_EN
 
   services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: "We offer end-to-end services from Build, Connect to Integrate Extended Reality with your Business."
     section: services
     list:
       - title: "BUILD"
         desc: "**EXTENDED REALITY ENVIRONMENT**<br>We help you to create an Extended Reality environment in the form of Virtual Reality, Augmented Reality or Mixed Reality<br>Applications:<br>Education, Training, Induction, Simulation, Design, Product Manual, Company Profile, etc."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: far fa-file-code #find more at https://fontawesome.com/icons
       - title: "CONNECT"
         desc: "**TO YOUR SYSTEM**<br>We can connect data from Extended Reality to an existing system and vice versa so that it can be adjusted, monitored and analyzed as needed<br>Applications:<br>Work Order, Maintenance, Task Monitoring and Controlling, etc."
-        icon: fas fa-laptop
+        icon: fas fa-link
       - title: "INTEGRATE"
         desc: "**WITH YOUR ENVIRONMENT**<br>Your work environment can be connected to Extended Reality such as the movement of personnel, goods and sensors on existing equipment<br>Applications:<br>Internet of Things, Logistics, Maintenance, Factory Monitoring System, etc." 
-        icon: fab fa-markdown
+        icon: fab fa-connectdevelop
 
   portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "Ongoing Projects:"
     section: portfolio
     closebutton: "Close Project"
 
   about:
     title: "About Us"
     text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: "We are located in Jakarta and Bandung, ready to help you implementing VR, AR and IIoT integration for your business innovation"
     section: about
 
   contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: "WhatsApp XRID Technology at https://wa.me/628112224481?text=I'm%20interested%20in%20Extended%20Reality"
     section: contact
-    name: "Name*"
-    name-validation: "Please enter your name."
-    email: "Email*"
-    email-validation: "Please enter your email address."
-    phone: "Phone Number"
-    phone-validation: "Please enter your phone number."
-    message: "Message*"
-    message-validation: "Please enter a message."
-    subject: "Contact Form Submission"
-    submit: "Send Message"
 
   footer:
     legal: "Privacy Policy"
