@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to Extended Reality
-    text: EXTEND REALITY,<br>EXTEND POSSIBILITY
+    title: XRID Technology
+    text: Innovation Partner in AR and VR Solutions
     button: Tell Me More
     buttonlink: "#services"
 
