@@ -22,13 +22,13 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "BUILD"
-        desc: "**EXTENDED REALITY ENVIRONMENT**<br>Kami membantu anda untuk membuat lingkungan Extender Reality baik dalam bentuk Virtual Reality, Augmented Reality maupun Mixed Reality.."
+        desc: "**EXTENDED REALITY ENVIRONMENT**<br>We help you to create an Extended Reality environment in the form of Virtual Reality, Augmented Reality or Mixed Reality<br>Applications:<br>Education, Training, Induction, Simulation, Design, Product Manual, Company Profile, etc."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "CONNECT"
-        desc: "**BETWEEN REALITY ENVIRONMENTS**<br>Kami membantu anda untuk membuat lingkungan Extender Reality baik dalam bentuk Virtual Reality, Augmented Reality maupun Mixed Reality."
+        desc: "**TO YOUR SYSTEM**<br>We can connect data from Extended Reality to an existing system and vice versa so that it can be adjusted, monitored and analyzed as needed<br>Applications:<br>Work Order, Maintenance, Task Monitoring and Controlling, etc."
         icon: fas fa-laptop
       - title: "INTEGRATE"
-        desc: "**TO YOUR ENVIRONMENT**<br>Your description here, full **Markdown** support [Markdown](https://en.wikipedia.org/wiki/Markdown) " 
+        desc: "**WITH YOUR ENVIRONMENT**<br>Your work environment can be connected to Extended Reality such as the movement of personnel, goods and sensors on existing equipment<br>Applications:<br>Internet of Things, Logistics, Maintenance, Factory Monitoring System, etc." 
         icon: fab fa-markdown
 
   portfolio:
