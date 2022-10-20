@@ -1,18 +1,18 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+title: Robomi Book Augmented Reality
+subtitle: Project to create augmented reality with Robomi Book as the source.
 image: assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
+alt: AR on Book
 
 caption:
-  title: Threads
-  subtitle: Illustration
+  title: Robomi Book
+  subtitle: Augmented Reality
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+Project to create augmented reality with Robomi Book as the source. This book is about robots. By using augmented reality, the robots in this book can appear, move and make sounds so that they are more attractive to readers, especially children.
 
 {:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+- Date: September 2022
+- Client:  Robomi Play Learn Share www.robomi.my.id
+- Category: Education, Augmented Reality
 
