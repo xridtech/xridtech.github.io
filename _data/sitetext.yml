@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: XRID Technology
-    text: Innovation Partner in AR and VR Solutions
+    title:  
+    text: Innovation Partner in AR, VR and XR Solutions
     button: Tell Me More
     buttonlink: "#services"
 
