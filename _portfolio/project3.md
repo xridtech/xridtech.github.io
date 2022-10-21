@@ -1,18 +1,18 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Signature and Logo 
+subtitle: Signature and Logo Augmented Reality
 image: assets/img/portfolio/03-full.jpg
 alt: 
 
 caption:
-  title: Finish
-  subtitle: Identity
+  title: Signature and Logo 
+  subtitle: Augmented Reality
   thumbnail: assets/img/portfolio/03-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Project to create augmented reality for signatures and logos so that clients can see more detail and beautiful.
 
 {:.list-inline}
-- Date: January 2017
-- Client: Finish
-- Category: Identity
+- Date: September 2022
+- Client:  Alrasyid Lettering
+- Category: Art, Augmented Reality
 
